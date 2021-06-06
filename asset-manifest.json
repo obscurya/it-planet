@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/it-planet/static/css/main.2491fd5e.chunk.css",
+    "main.js": "/it-planet/static/js/main.cc5d8dfc.chunk.js",
+    "main.js.map": "/it-planet/static/js/main.cc5d8dfc.chunk.js.map",
+    "runtime-main.js": "/it-planet/static/js/runtime-main.ed1304b4.js",
+    "runtime-main.js.map": "/it-planet/static/js/runtime-main.ed1304b4.js.map",
+    "static/css/2.d1c131b4.chunk.css": "/it-planet/static/css/2.d1c131b4.chunk.css",
+    "static/js/2.046db3cb.chunk.js": "/it-planet/static/js/2.046db3cb.chunk.js",
+    "static/js/2.046db3cb.chunk.js.map": "/it-planet/static/js/2.046db3cb.chunk.js.map",
+    "index.html": "/it-planet/index.html",
+    "static/css/2.d1c131b4.chunk.css.map": "/it-planet/static/css/2.d1c131b4.chunk.css.map",
+    "static/css/main.2491fd5e.chunk.css.map": "/it-planet/static/css/main.2491fd5e.chunk.css.map",
+    "static/js/2.046db3cb.chunk.js.LICENSE.txt": "/it-planet/static/js/2.046db3cb.chunk.js.LICENSE.txt",
+    "static/media/400.css": "/it-planet/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/500.css": "/it-planet/static/media/roboto-vietnamese-500-normal.b8e494da.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1304b4.js",
+    "static/css/2.d1c131b4.chunk.css",
+    "static/js/2.046db3cb.chunk.js",
+    "static/css/main.2491fd5e.chunk.css",
+    "static/js/main.cc5d8dfc.chunk.js"
+  ]
+}
